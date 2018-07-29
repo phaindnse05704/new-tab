@@ -1,0 +1,50 @@
+{
+	"appName": {
+		"message": "New Tab"
+	},
+	"appDescription": {
+		"message": "Change my New Tab page."
+	},
+	"time_AM":{
+		"message": "AM"
+	},
+	"time_PM":{
+		"message": "PM"
+	},
+	"time_morning":{
+		"message": "morning"
+	},
+	"time_noon":{
+		"message": "noon"
+	},
+	"time_afternoon":{
+		"message": "afternoon"
+	},
+	"time_evening":{
+		"message": "evening"
+	},
+	"time_greet_morning": {
+		"message": "Good morning"
+	},
+	"time_greet_afternoon": {
+		"message": "Good afternoon"
+	},
+	"time_greet_evening": {
+		"message": "Good evening"
+	},
+	"byeMessage_day":{
+		"message": "Bye, see you later~~"
+	},
+	"byeMessage_night":{
+		"message": "Goodnight~~"
+	},
+	"late_message" : {
+		"message": "It's quite late now. Are you a night owl??"
+	},
+	"ask_day" : {
+		"message": "How you've been here today?"
+	},
+	"ask_wanna_do" : {
+		"message": "What do you want to do now?"
+	}
+}

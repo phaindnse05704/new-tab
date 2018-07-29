@@ -1,0 +1,50 @@
+{
+	"appName": {
+		"message": "Tab Mới"
+	},
+	"appDescription": {
+		"message": "Thay đổi trang Tab Mới của tôi ^^"
+	},
+	"time_AM":{
+		"message": "Sáng"
+	},
+	"time_PM": {
+		"message": "Chiều"
+	},
+	"time_morning": {
+		"message": "buổi sáng"
+	},
+	"time_noon": {
+		"message": "buổi trưa"
+	},
+	"time_afternoon": {
+		"message": "buổi chiều"
+	},
+	"time_evening": {
+		"message": "buổi tối"
+	},
+	"time_greet_morning": {
+		"message": "Chào buổi sáng"
+	},
+	"time_greet_afternoon": {
+		"message": "Chào buổi chiều"
+	},
+	"time_greet_evening": {
+		"message": "Chào buổi tối"
+	},
+	"byeMessage_day": {
+		"message": "Tạm biệt, hẹn gặp lại~~"
+	},
+	"byeMessage_night": {
+		"message": "Ngủ ngon nhé~~"
+	},
+	"late_message" : {
+		"message": "Khá muộn rồi đó, cậu là cú đêm à??"
+	},
+	"ask_day" : {
+		"message": "Ngày hôm nay của cậu thế nào?"
+	},
+	"ask_wanna_do" : {
+		"message": "Cậu muốn làm gì bây giờ?"
+	}
+}

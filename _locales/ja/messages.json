@@ -1,0 +1,50 @@
+{
+	"appName": {
+		"message": "ニユータッブ"
+	},
+	"appDescription": {
+		"message": "私のニユータッブページ"
+	},
+	"time_AM": {
+		"message": "午前"
+	},
+	"time_PM": {
+		"message": "午後"
+	},
+	"time_morning": {
+		"message": "朝"
+	},
+	"time_noon": {
+		"message": "昼"
+	},
+	"time_afternoon": {
+		"message": "午後"
+	},
+	"time_evening": {
+		"message": "夜"
+	},
+	"time_greet_morning": {
+		"message": "おはようございます"
+	},
+	"time_greet_afternoon": {
+		"message": "こんにちは"
+	},
+	"time_greet_evening": {
+		"message": "こんばんは"
+	},
+	"byeMessage_day": {
+		"message": "じゃあまたね~"
+	},
+	"byeMessage_night": {
+		"message": "おやすみなさい～"
+	},
+	"late_message" : {
+		"message": "今はかなり遅い. 君が夜のフクロウですか？"
+	},
+	"ask_day" : {
+		"message": "今日はどうですか？"
+	},
+	"ask_wanna_do" : {
+		"message": "今何をしたい？"
+	}
+}
