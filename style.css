@@ -68,3 +68,30 @@ body {
 .clock #ampm { 
   font-size: 2rem; 
 }
+
+/* Quote */
+
+#quotes {
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+#quotes #content {
+	font-size: 1.26rem;
+	margin: 0;
+}
+#quotes #content p {
+	margin: 0;
+}
+
+#quotes #author {
+	font-size: 1rem;
+}
+
+#quotes #author::before {
+	content: "--"
+}
+#quotes #author::after {
+	content: "--";
+}
